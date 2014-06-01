@@ -1,0 +1,33 @@
+[submodule "bug-trackers"]
+	path = bug-trackers
+	url = git@github.com:oss-collections/bug-trackers.git
+[submodule "code-review"]
+	path = code-review
+	url = git@github.com:oss-collections/code-review.git
+[submodule "config-mgmt"]
+	path = config-mgmt
+	url = git@github.com:oss-collections/config-mgmt.git
+[submodule "continuous-integration"]
+	path = continuous-integration
+	url = git@github.com:oss-collections/continuous-integration.git
+[submodule "databases"]
+	path = databases
+	url = git@github.com:oss-collections/databases.git
+[submodule "languages"]
+	path = languages
+	url = git@github.com:oss-collections/languages.git
+[submodule "licenses"]
+	path = licenses
+	url = git@github.com:oss-collections/licenses.git
+[submodule "load-balancers"]
+	path = load-balancers
+	url = git@github.com:oss-collections/load-balancers.git
+[submodule "monitoring"]
+	path = monitoring
+	url = git@github.com:oss-collections/monitoring.git
+[submodule "web-frameworks"]
+	path = web-frameworks
+	url = git@github.com:oss-collections/web-frameworks.git
+[submodule "web-servers"]
+	path = web-servers
+	url = git@github.com:oss-collections/web-servers.git
