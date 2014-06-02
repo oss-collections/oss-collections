@@ -31,6 +31,3 @@
 [submodule "web-servers"]
 	path = web-servers
 	url = git@github.com:oss-collections/web-servers.git
-[submodule "octokits"]
-	path = octokits
-	url = git@github.com:oss-collections/octokits.git
