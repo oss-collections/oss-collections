@@ -34,3 +34,6 @@
 [submodule "octokits"]
 	path = octokits
 	url = git@github.com:oss-collections/octokits.git
+[submodule "kernels"]
+	path = kernels
+	url = git@github.com:oss-collections/kernels.git
