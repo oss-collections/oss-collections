@@ -37,3 +37,6 @@
 [submodule "kernels"]
 	path = kernels
 	url = git@github.com:oss-collections/kernels.git
+[submodule "editors"]
+	path = editors
+	url = git@github.com:oss-collections/editors.git
