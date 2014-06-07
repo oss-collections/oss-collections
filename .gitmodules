@@ -40,3 +40,6 @@
 [submodule "editors"]
 	path = editors
 	url = git@github.com:oss-collections/editors.git
+[submodule "koans"]
+	path = koans
+	url = git@github.com:oss-collections/koans.git
