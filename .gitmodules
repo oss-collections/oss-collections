@@ -43,3 +43,6 @@
 [submodule "koans"]
 	path = koans
 	url = git@github.com:oss-collections/koans.git
+[submodule "browsers"]
+	path = browsers
+	url = git@github.com:oss-collections/browsers.git
