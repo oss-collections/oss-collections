@@ -46,3 +46,6 @@
 [submodule "browsers"]
 	path = browsers
 	url = git@github.com:oss-collections/browsers.git
+[submodule "compilers"]
+	path = compilers
+	url = git@github.com:oss-collections/compilers.git
