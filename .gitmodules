@@ -49,3 +49,6 @@
 [submodule "compilers"]
 	path = compilers
 	url = git@github.com:oss-collections/compilers.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:oss-collections/dotfiles.git
