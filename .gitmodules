@@ -55,3 +55,6 @@
 [submodule "load-testers"]
 	path = load-testers
 	url = git@github.com:oss-collections/load-testers.git
+[submodule "operating-systems"]
+	path = operating-systems
+	url = git@github.com:oss-collections/operating-systems.git
