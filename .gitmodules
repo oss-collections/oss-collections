@@ -52,3 +52,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = git@github.com:oss-collections/dotfiles.git
+[submodule "load-testers"]
+	path = load-testers
+	url = git@github.com:oss-collections/load-testers.git
