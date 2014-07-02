@@ -61,3 +61,6 @@
 [submodule "project-mgmt"]
 	path = project-mgmt
 	url = git@github.com:oss-collections/project-mgmt.git
+[submodule "debuggers"]
+	path = debuggers
+	url = git@github.com:oss-collections/debuggers.git
